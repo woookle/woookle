@@ -1,0 +1,2 @@
+- 🖤 hi, I’m woookle
+- 📦 quietly learning programming
