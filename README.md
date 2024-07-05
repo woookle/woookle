@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About me
 <div>
-✨ I am 17 years old<br>
+✨ I am 18 years old<br>
 👾 I am in my second year of college studying to be a website developer
 </div>
 
