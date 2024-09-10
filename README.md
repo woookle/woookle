@@ -12,7 +12,7 @@
 ## 🧑‍💻 About me
 <div>
 ✨ I am 18 years old<br>
-👾 I am in my second year of college studying to be a website developer
+👾 I am in my third year of college studying to be a website developer
 </div>
 
 <br>
@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='50px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width='50px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width='50px' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width='50px' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width='50px' />
 </div>
 
 <br>
