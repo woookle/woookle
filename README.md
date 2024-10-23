@@ -3,7 +3,7 @@
     <b>Welcome to my profile</b>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDN0Z3ZjdGFpYXZtM2l3ejVzeXlxNzViZG8xYTRyZzJsM3Btb2gyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXd5cTBhYzM5ODVobmRxbHZiM3NxMXgzNm82bGU0dXp0ejl1MXNhaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif">
   <br>
 </div>
 
