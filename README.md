@@ -45,9 +45,10 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 <h1>🎓 <b>𝕾𝖙𝖆𝖙𝖘</b></h1>
-<img src='https://leetcard.jacoblin.cool/woookle?theme=unicorn&font=Noto%20Sans%20Bassa%20Vah' />
-
-![Codewars](https://github.r2v.ch/codewars?user=woookle&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/woookle?theme=unicorn&font=Noto%20Sans%20Bassa%20Vah" width="45%" height="255px" />
+  <img src="https://github.r2v.ch/codewars?user=woookle&top_languages=true&stroke=%23b362ff&theme=purple_dark" width="45%" height="255px" />
+</p>
 
 <hr>
 
