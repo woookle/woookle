@@ -7,7 +7,7 @@
       </h1>
     </summary>
   </ul>
-  <img src="https://media1.tenor.com/m/26VXnb94UpkAAAAC/himeno-chainsaw-man.gif" width="100%" />
+  <img src="https://media1.tenor.com/m/asVsHYpM7LAAAAAd/yoru-yoru-chainsaw-man.gif" width="100%" />
   <br>
 </div>
 
@@ -22,38 +22,42 @@
 <hr>
 
 <h1 align="center">⚙️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬</h1>
-<h3 align="center">𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 🖼️</h3>
-<p align="center">
-   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-<h3 align="center">𝐁𝐚𝐜𝐤𝐞𝐧𝐝 🎲</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-</p>
-
-<h3 align="center">𝐎𝐭𝐡𝐞𝐫 🗿</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
+<table>
+   <tr>
+      <td>𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 🖼️</td>
+      <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></td>
+      <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></td>
+      <td><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /></td>
+   </tr>
+</table>
+<table>
+      <tr>
+      <td>𝐁𝐚𝐜𝐤𝐞𝐧𝐝 🎲</td>
+      <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></td>
+      <td><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" /></td>
+      <td><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></td>
+   </tr>
+</table>
+<table>
+   <tr>
+      <td>𝐎𝐭𝐡𝐞𝐫 🗿</td>
+      <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></td>
+      <td><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" /></td>
+   </tr>
+</table>
 
 <hr>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="75%" />
+  <img src="https://media1.tenor.com/m/eorXcaFHZfUAAAAd/owari-no-seraph-shinoa-hiragi.gif" width="100%" />
 </p>
 
 <hr>
@@ -69,7 +73,7 @@
 <hr>
 
 <div align='center' id="user-content-toc">
-  <img src='https://media1.tenor.com/m/Bpv9wTLKMskAAAAd/computer-nerds.gif' width="80%" />
+  <img src='https://media1.tenor.com/m/VWWYG8OJN1oAAAAd/mushoku-tensei-eris.gif' width="80%" />
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>𝐡𝐚𝐯𝐞 𝐚 𝐧𝐢𝐜𝐞 𝐝𝐚𝐲 🖤</h1>
