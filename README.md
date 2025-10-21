@@ -15,8 +15,8 @@
 
 <h1 align="center">🧑‍💻 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞</h1>
 <div>
-  ✨ 𝐈 𝐚𝐦 𝟏𝟖 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝<br>
-  👾 𝐈 𝐚𝐦 𝐢𝐧 𝐦𝐲 𝐭𝐡𝐢𝐫𝐝 𝐲𝐞𝐚𝐫 𝐨𝐟 𝐜𝐨𝐥𝐥𝐞𝐠𝐞 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐭𝐨 𝐛𝐞 𝐚 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+  ✨ 𝐈 𝐚𝐦 𝟏𝟗 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝<br>
+  👾 𝐈 𝐚𝐦 𝐢𝐧 𝐦𝐲 𝐟𝐨𝐮𝐫𝐭𝐡 𝐲𝐞𝐚𝐫 𝐨𝐟 𝐜𝐨𝐥𝐥𝐞𝐠𝐞 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐚 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 </div>
 
 <hr>
@@ -36,13 +36,14 @@
       <tr>
       <td>𝐁𝐚𝐜𝐤𝐞𝐧𝐝 🎲</td>
       <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></td>
       <td><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" /></td>
-      <td><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></td>
+      <td><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></td
    </tr>
 </table>
 <table>
