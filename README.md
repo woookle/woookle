@@ -22,38 +22,9 @@
 <hr>
 
 <h1 align="center">⚙️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬</h1>
-<table>
-   <tr>
-      <td>𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 🖼️</td>
-      <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></td>
-      <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></td>
-      <td><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /></td>
-   </tr>
-</table>
-<table>
-      <tr>
-      <td>𝐁𝐚𝐜𝐤𝐞𝐧𝐝 🎲</td>
-      <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></td>
-      <td><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" /></td>
-      <td><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></td
-   </tr>
-</table>
-<table>
-   <tr>
-      <td>𝐎𝐭𝐡𝐞𝐫 🗿</td>
-      <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></td>
-      <td><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
-      <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" /></td>
-   </tr>
-</table>
+<h2>𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 🖼️<br /><br /><img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,vite" alt="Frontend Skills" /></h2>
+<h2>𝐁𝐚𝐜𝐤𝐞𝐧𝐝 🎲<br /><br /><img src="https://skillicons.dev/icons?i=nodejs,dotnet,express,nestjs,mongodb,postgres,postman" alt="Backend Skills" /></h2>
+<h2>𝐎𝐭𝐡𝐞𝐫 🗿<br /><br /><img src="https://skillicons.dev/icons?i=python,cpp,cs" alt="Other Skills" /></h2>
 
 <hr>
 
