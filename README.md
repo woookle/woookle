@@ -41,6 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woookle&layout=compact&theme=dark" width="45%" height="255px" />
   <img src="https://github-readme-stats.vercel.app/api?username=woookle&show_icons=true&theme=dark" width="45%" height="255px" />
 </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=woookle&theme=darkhub&row=1&column=5" width="100%"/>
+</div>
 
 <hr>
 
