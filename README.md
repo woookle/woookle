@@ -7,7 +7,7 @@
       </h1>
     </summary>
   </ul>
-  <img src="https://media1.tenor.com/m/KegTw55LcnMAAAAd/souichi-tsujii-junji-ito.gif" width="100%" />
+  <img src="https://media1.tenor.com/m/GnizwXSZ4XgAAAAd/anime-background-black-and-white.gif" width="100%" />
   <br>
 </div>
 
@@ -29,7 +29,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/8NRtZMuR0JYAAAAd/gon.gif" width="100%" />
+  <img src="https://media1.tenor.com/m/LnpVjK3wi4QAAAAd/violet-violet-evergarden.gif" width="100%" />
 </p>
 
 <hr>
@@ -48,7 +48,7 @@
 <hr>
 
 <div align='center' id="user-content-toc">
-  <img src='https://media1.tenor.com/m/gFBfnd5eFRoAAAAd/anime-black.gif' width="80%" />
+  <img src='https://media1.tenor.com/m/gvAbCGJ8BXkAAAAd/himeno-chainsaw-man.gif' width="100%" />
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>𝐡𝐚𝐯𝐞 𝐚 𝐧𝐢𝐜𝐞 𝐝𝐚𝐲 🖤</h1>
