@@ -13,37 +13,48 @@
 
 <hr>
 
-<h1 align="center">🧑‍💻 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞</h1>
-<div>
-  ✨ 𝐈 𝐚𝐦 𝟏𝟗 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝<br>
-  👾 𝐈 𝐚𝐦 𝐢𝐧 𝐦𝐲 𝐟𝐨𝐮𝐫𝐭𝐡 𝐲𝐞𝐚𝐫 𝐨𝐟 𝐜𝐨𝐥𝐥𝐞𝐠𝐞 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐚 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
-</div>
+<h1 align="center">💫 About Me</h1>
 
-<hr>
-
-<h1 align="center">⚙️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬</h1>
-<h2>𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 🖼️<br /><br /><img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,vite" alt="Frontend Skills" /></h2>
-<h2>𝐁𝐚𝐜𝐤𝐞𝐧𝐝 🎲<br /><br /><img src="https://skillicons.dev/icons?i=nodejs,dotnet,express,nestjs,mongodb,postgres,postman" alt="Backend Skills" /></h2>
-<h2>𝐎𝐭𝐡𝐞𝐫 🗿<br /><br /><img src="https://skillicons.dev/icons?i=python,cpp,cs" alt="Other Skills" /></h2>
-
-<hr>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/LnpVjK3wi4QAAAAd/violet-violet-evergarden.gif" width="100%" />
-</p>
-
-<hr>
-
-<h1 align="center">🎓 𝐒𝐭𝐚𝐭𝐬</h1>
-<p align="center">
-  <img src="https://github.r2v.ch/codewars?user=woookle&top_languages=true&stroke=white&theme=highcontrast" width="45%" height="255px" />
-  <img src="https://leetcard.jacoblin.cool/woookle?theme=dark&font=Noto%20Sans%20Bassa%20Vah" width="45%" height="255px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woookle&layout=compact&theme=dark" width="45%" height="255px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=woookle&show_icons=true&theme=dark" width="45%" height="255px" />
-</p>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=woookle&theme=darkhub&row=1&column=5" width="100%"/>
+
+**🎓 Computer Science Student** • **💻 Web Developer** • **🚀 Tech Enthusiast**
+
 </div>
+
+<br>
+
+> 🎯 **19 y/o** • **4th year student** • Passionate about creating efficient web solutions and continuously expanding my technical expertise in full-stack development.
+
+### 📍 Currently
+- 💻 Focusing on web development technologies
+- 🚀 Building projects to enhance practical skills
+- 🔥 Aspiring to become a professional website developer
+
+<hr>
+
+<h1 align="center">🛠️ Tech Stack</h1>
+
+**Frontend:** `JavaScript` `TypeScript` `React` `Redux` `Vite`  
+**Backend:** `Node.js` `.NET` `Express` `NestJS` `MongoDB` `PostgreSQL` `Postman`  
+**Languages:** `Python` `C++` `C#`
+
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,vite,nodejs,dotnet,express,nestjs,mongodb,postgres,postman,python,cpp,cs)](https://skillicons.dev)
+
+</div>
+
+---
+
+<h1 align="center">📊 Coding Statistics</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=woookle&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woookle&layout=compact&theme=dark&hide_border=true&bg_color=00000000" width="48%" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/woookle?theme=dark&font=Noto%20Sans%20Bassa%20Vah&hide_border=true&ext=contest" width="48%" />
+  <img src="https://github.r2v.ch/codewars?user=woookle&top_languages=true&stroke=white&theme=highcontrast&hide_border=true" width="48%" />
+</p>
 
 <hr>
 
