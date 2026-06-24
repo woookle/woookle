@@ -23,7 +23,7 @@
 
 <br>
 
-> 🎯 **19 y/o** • **4th year student** • Passionate about creating efficient web solutions and continuously expanding my technical expertise in full-stack development.
+> 🎯 **20 y/o** • Passionate about creating efficient web solutions and continuously expanding my technical expertise in full-stack development.
 
 ### 📍 Currently
 - 💻 Focusing on web development technologies
